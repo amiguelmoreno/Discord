@@ -10,7 +10,6 @@ import { Check, Copy, RefreshCw } from 'lucide-react';
 import useOrigin from '@/hooks/useOrigin';
 import { useEffect, useRef, useState } from 'react';
 import axios from 'axios';
-import { Onest } from 'next/font/google';
 
 const InviteModal = () => {
   const { onOpen, isOpen, onClose, type, data } = useModal();
