@@ -1,9 +1,7 @@
 import currentProfilePages from '@/lib/currentProfilePages';
 import { db } from '@/lib/db';
 import { NextApiResponseServerIo } from '@/types';
-import { error } from 'console';
 import { NextApiRequest } from 'next';
-import { string } from 'zod';
 
 export default async function handler(
   req: NextApiRequest,

@@ -1,7 +1,6 @@
 import currentProfile from '@/lib/currentProfile';
 import { db } from '@/lib/db';
 import { MemberRole } from '@prisma/client';
-import { setGlobal } from 'next/dist/trace';
 import { NextResponse } from 'next/server';
 import { v4 as uuidv4 } from 'uuid';
 

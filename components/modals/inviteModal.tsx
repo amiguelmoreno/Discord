@@ -8,7 +8,7 @@ import { Input } from '../ui/input';
 import { Button } from '../ui/button';
 import { Check, Copy, RefreshCw } from 'lucide-react';
 import useOrigin from '@/hooks/useOrigin';
-import { useEffect, useRef, useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
 
 const InviteModal = () => {

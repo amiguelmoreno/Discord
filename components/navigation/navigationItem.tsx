@@ -5,7 +5,6 @@ import ActionTooltip from '../actionTooltip';
 import { useParams } from 'next/navigation';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
-import { useEffect, useState } from 'react';
 
 interface NavigationItemProps {
   id: string;

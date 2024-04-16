@@ -1,7 +1,6 @@
 import currentProfile from '@/lib/currentProfile';
 import { db } from '@/lib/db';
 import { ChannelType, MemberRole } from '@prisma/client';
-import { channel } from 'diagnostics_channel';
 import { redirect } from 'next/navigation';
 import ServeHeader from './serveHeader';
 import { ScrollArea } from '../ui/scroll-area';

@@ -1,5 +1,3 @@
-import { strict } from 'assert';
-import { string } from 'zod';
 import { Avatar, AvatarImage } from './ui/avatar';
 import { cn } from '@/lib/utils';
 

@@ -153,7 +153,7 @@ const ChatItem = ({
               href={fileUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="relative mt-2 flex aspect-square h-48 w-48 items-center overflow-hidden rounded-md border bg-secondary"
+              className=" relative mt-2 flex aspect-auto h-48 min-h-80 max-w-96 items-center overflow-hidden rounded-md border bg-secondary"
             >
               <Image
                 src={fileUrl}

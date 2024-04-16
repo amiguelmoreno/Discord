@@ -6,7 +6,6 @@ import { ShieldAlert, ShieldCheck } from 'lucide-react';
 import { useParams } from 'next/navigation';
 import { useRouter } from 'next/navigation';
 import UserAvatar from '../userAvatar';
-import { on } from 'events';
 
 interface ServerMemberProps {
   member: Member & { profile: Profile };
