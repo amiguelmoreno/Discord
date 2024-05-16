@@ -9,7 +9,7 @@
   <h1>Discord (Clone)</h1>
   <br />
   <p align="center">
-   This is a Discord Clone Full Stack Application made with NextJS
+   This is a Discord Clone Full Stack Application made with NextJS (Full Responsive)
      <br />
      <br />
   <a href="#">
@@ -47,23 +47,22 @@ The main goal of this proyect is to learn teh fundamentals of NextJS, folders ro
 
 ### What did I learn with this project?
 
-  * How to make an App wiht NextJS
-  * How folder routing system works
-  * How to create, conect and update a database using prisma
+  * How to make an App wiht NextJS.
+  * How folder routing system works.
+  * How to create, conect and update a database using prisma.
   * Implement Auth 2.0 with Clerk, allowing to sign in with github, google...
-  * How to do a robust project code structure
-  * Create dinamic routes with NextJS
-  * Use uploadthing to let users update their pics and upload images
-  * Create a Real Time chat with SocketIO
-  * Implement Video and Audio streaming with Livekit
+  * How to do a robust project code structure.
+  * Create dinamic routes with NextJS.
+  * Use uploadthing to let users update their pics and upload images.
+  * Create a Real Time chat with SocketIO.
+  * Implement Video and Audio streaming with Livekit.
 
 
 ### What interesting things can I find?
     
-   * Text, Audio and Video channels like in the real Discord app
-   * Create and manage your own servers and channels
-   * Private chat with your friend
-   * 
+   * Text, Audio and Video channels like in the real Discord app.
+   * Create and manage your own servers and channels.
+   * Private chat with your friend.
 
 
 ## Posible extra features and improvements
