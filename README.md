@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The main goal of this proyect is to learn teh fundamentals of NextJS, folders routing system, reusable components, databases, api endpoints, SocketIO and more. This is a project that I did in Code with Antonio course.
+The main goal of this proyect is to learn the fundamentals of NextJS, folders routing system, reusable components, databases, api endpoints, SocketIO and more. This is a project that I did in Code with Antonio course.
 <br />
 <br />
 
